@@ -1,0 +1,32 @@
+{
+    "User": [
+        {
+            "id": 1,
+            "fullname": "surya",
+            "email": "surya@example.com",
+            "username": "surya",
+            "password": "surya_1"
+        },
+        {
+            "id": 2,
+            "fullname": "priya",
+            "email": "priya@example.com",
+            "username": "priya",
+            "password": "priya_2"
+        },
+        {
+            "id": 3,
+            "fullname": "Johnson",
+            "email": "johnson@example.com",
+            "username": "johnson",
+            "password": "johnson_3"
+        },
+        {
+            "id": 4,
+            "fullname": "sakthi",
+            "email": "sakthi@example.com",
+            "username": "sakthi",
+            "password": "sakthi_4"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+.btn-primary {
+    background-color: lightseagreen;
+    border-color: lightseagreen;
+}
+
+.btn-primary:hover {
+    background-color: lightseagreen;
+    border-color: lightseagreen;
+}
+
+.form-label {
+    font-weight: 500;
+}
+
+.form-control {
+    border-radius: 4px;
+}
+
+.container {
+    max-width: 80%;
+}
